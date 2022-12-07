@@ -1,8 +1,8 @@
 # MCache library
 
 [![Build Status](https://travis-ci.org/OrlovEvgeny/go-mcache.svg?branch=master)](https://travis-ci.org/OrlovEvgeny/go-mcache)
-[![Go Report Card](https://goreportcard.com/badge/github.com/OrlovEvgeny/go-mcache?v1)](https://goreportcard.com/report/github.com/OrlovEvgeny/go-mcache)
-[![GoDoc](https://godoc.org/github.com/OrlovEvgeny/go-mcache?status.svg)](https://godoc.org/github.com/OrlovEvgeny/go-mcache)
+[![Go Report Card](https://goreportcard.com/badge/github.com/GreenFuze/go-mcache?v1)](https://goreportcard.com/report/github.com/GreenFuze/go-mcache)
+[![GoDoc](https://godoc.org/github.com/GreenFuze/go-mcache?status.svg)](https://godoc.org/github.com/GreenFuze/go-mcache)
 
 go-mcache - this is a fast key:value storage.
 Its major advantage is that, being essentially a thread-safe .
@@ -15,7 +15,7 @@ with expiration times, it doesn't need to serialize, and quick removal of expire
 # Installation
 
 ```bash
-~ $ go get -u github.com/OrlovEvgeny/go-mcache
+~ $ go get -u github.com/GreenFuze/go-mcache
 ```
 
 **Example a Pointer value (vary fast method)**

@@ -1,6 +1,6 @@
 package safeMap
 
-import "github.com/OrlovEvgeny/go-mcache/item"
+import "github.com/GreenFuze/go-mcache/item"
 
 //safeMap -  data command chanel
 type safeMap chan commandData
